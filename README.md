@@ -38,7 +38,7 @@ A interface foi projetada para ser simples e amigável. As cores principais do p
  cd Secret-Friend
 ```
 
-3. **Abra o arquivo **``** no navegador**
+3. **Abra o arquivo **`index.html`** no navegador usando o live server**
 
 ## 📝 Como Contribuir
 
