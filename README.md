@@ -29,7 +29,7 @@ A interface foi projetada para ser simples e amigável. As cores principais do p
 1. **Clone o repositório**
 
 ```bash
- git clone https://github.com/SEU_USUARIO/Secret-Friend.git
+ [git clone https://github.com/SergioBurlamak/Secret-Friend.git]
 ```
 
 2. **Acesse a pasta do projeto**
