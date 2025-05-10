@@ -63,10 +63,6 @@ A interface foi projetada para ser simples e amigável. As cores principais do p
 
 5. **Abra um Pull Request** 🚀
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e melhorá-lo!
-
 ---
 
 📌 **Desenvolvido por **[**Sergio Burlamaqui**](https://github.com/SergioBurlamaK)
